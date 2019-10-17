@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 56C3-F473
+
+ Directory of E:\LearnLaravel
+
+10/17/2019  11:35 AM    <DIR>          .
+10/17/2019  11:35 AM    <DIR>          ..
+10/17/2019  11:35 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  215,288,070,144 bytes free
